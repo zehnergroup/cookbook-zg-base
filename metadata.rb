@@ -1,4 +1,4 @@
-name             "base"
+name             "zg-base"
 maintainer       "ZehnerGroup"
 maintainer_email "aduro@zehnergroup.com"
 license          "All rights reserved"

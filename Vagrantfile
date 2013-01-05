@@ -58,7 +58,7 @@ Vagrant::Config.run do |config|
     }
 
     chef.run_list = [
-      "recipe[base::default]"
+      "recipe[zg-base]"
     ]
   end
 end
