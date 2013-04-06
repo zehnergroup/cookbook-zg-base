@@ -57,6 +57,8 @@ Vagrant::Config.run do |config|
       }
     }
 
+    chef.log_level = :debug
+
     chef.run_list = [
       "recipe[zg-base]"
     ]
